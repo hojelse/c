@@ -7,5 +7,7 @@
 3. Open MSYS2 MSYS and run `pacman -Su`
 4. `pacman -S --needed base-devel mingw-w64-x86_64-toolchain`
 5. Add `\mingw64\bin` to env vars
+
+## VS code
 6. Install vscode extension "C/C++"
 7. Add `C:\msys64\mingw64\include\**` to `configurations.includePath`
