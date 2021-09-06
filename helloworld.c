@@ -1,7 +1,10 @@
 #include <stdio.h>
 
+long a = 1;
+char str[] = "Hello world";
+
 int main()
 {
-  printf("Hello World!");
+  printf("%s %i", str, a);
   return 0;
 }
