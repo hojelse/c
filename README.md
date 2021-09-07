@@ -1,5 +1,9 @@
 # C
 
+## Dissasemble
+
+`objdump -d path/to/binaryfile`
+
 ## Install c compiler
 
 1. Install [MSYS2](https://github.com/msys2/msys2-installer/releases/download/2021-06-04/msys2-x86_64-20210604.exe)
