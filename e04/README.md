@@ -15,3 +15,5 @@
 - **attach pid** Attach to a running process so you can debug it.
 - **detach** Detach from the process.
 - **list** List out the next source lines. Add a - to list the previous ten lines.
+
+`gdb --batch --ex run --ex bt --ex q --args ./ex3`
