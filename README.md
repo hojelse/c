@@ -1,8 +1,6 @@
-# C
+# Operating Systems and C
 
-## Dissasemble
-
-`objdump -d path/to/binaryfile`
+Fall 2021
 
 ## Install c compiler Windows
 
